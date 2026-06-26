@@ -16,8 +16,8 @@ A lightweight, dependency-minimal Bitcoin Testnet toolkit written in pure Python
 ## 📁 Project Structure
 
 ```
-btc-testnet-wallet/
-├── wallet_tool.py        # Key generation, address derivation, QR, validation
+BTC-Testnet-Wallet/
+├── wallet_tool.py         # Key generation, address derivation, QR, validation
 ├── send_testnet.py        # UTXO fetcher, transaction builder & broadcaster
 ├── wallet.json            # Auto-generated after running `gen` (gitignored)
 ├── qr.png                 # Auto-generated QR output (gitignored)
